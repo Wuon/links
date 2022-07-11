@@ -1,0 +1,47 @@
+{
+  "name": "links",
+  "description": "A simple space to store all your relevant links",
+  "version": "0.1.0",
+  "author": "Daniel Wu",
+  "dependencies": {
+    "gatsby": "^4.18.0",
+    "gatsby-plugin-image": "^2.18.0",
+    "gatsby-plugin-manifest": "^4.18.0",
+    "gatsby-plugin-react-helmet": "^5.18.0",
+    "gatsby-plugin-sharp": "^4.18.0",
+    "gatsby-source-filesystem": "^4.18.0",
+    "gatsby-transformer-json": "^4.18.0",
+    "gatsby-transformer-sharp": "^4.18.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/react-helmet": "^6.1.5",
+    "autoprefixer": "^10.4.7",
+    "gatsby-plugin-postcss": "^5.18.0",
+    "postcss": "^8.4.14",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.1.5"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wuon/links"
+  },
+  "bugs": {
+    "url": "https://github.com/Wuon/links/issues"
+  }
+}

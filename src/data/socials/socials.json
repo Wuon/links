@@ -1,0 +1,31 @@
+[
+  {
+    "platform": "Snapchat",
+    "username": "dandanwu",
+    "icon": "../../images/snapchat.png"
+  },
+  {
+    "platform": "Instagram",
+    "username": "danielktwu",
+    "icon": "../../images/instagram.png",
+    "link": "https://www.instagram.com/danielktwu/"
+  },
+  {
+    "platform": "LinkedIn",
+    "username": "danielktwu",
+    "icon": "../../images/linkedin.png",
+    "link": "https://www.linkedin.com/in/danielktwu/"
+  },
+  {
+    "platform": "Spotify",
+    "username": "danielktwu",
+    "icon": "../../images/spotify.png",
+    "link": "https://open.spotify.com/user/danielktwu?si=9524065fa7b84210"
+  },
+  {
+    "platform": "GitHub",
+    "username": "wuon",
+    "icon": "../../images/github.png",
+    "link": "https://www.github.com/wuon"
+  }
+]
