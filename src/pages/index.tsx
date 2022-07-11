@@ -1,10 +1,9 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import { graphql, useStaticQuery } from "gatsby";
-
 import { StaticImage } from "gatsby-plugin-image";
 
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import SocialCard from "../components/SocialCard";
 import Social from "../types/social";
 
