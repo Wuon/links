@@ -1,9 +1,11 @@
 <p align="center">
-  <img alt="Gatsby" src="./src/images/links_logo.png" width="60" />
+  <img alt="Gatsby" src="./assets/links_logo.png" width="60" />
 </p>
 <h1 align="center">
   Links
 </h1>
+
+![alt text](./assets/mockup.png)
 
 Showcase your digital identity with this LinkTree clone. This starter ships with customizable links with the option to add icons. Feel free to fork and customize the project to fit your own needs!
 
